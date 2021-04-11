@@ -1,7 +1,7 @@
 # Color-Clock-v2
 
 ## Introduction
-Clock using my own color-coding systems in place of numbers. It can connect to Wi-Fi and to gets time by NTP and updates a RTC chip to store locally for when it cannot update the time via NTP. There is a photocell at the top to adjust the LED brightness based on ambient brightness. 
+Clock using my own color-coding systems in place of numbers. Displays time in miltity format using the system below. It can connect to Wi-Fi and to gets time by NTP and updates a RTC chip to store locally for when it cannot update the time via NTP. There is a photocell at the top to adjust the LED brightness based on ambient brightness. 
 
 ## Color System 
 I tried to make the system follow 1-3 (RGB), 4-6 (R+G+B), and 7-9 (RGB+W). I did move them around within those patterns to separate similar colors and to suit my own tastes. RGB values provided were selected when viewed through clear PLA and might need to be tweaked for different diffusing material. 
