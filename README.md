@@ -1,5 +1,5 @@
 # Color-Clock-v2
-![alt text](./Color-Clock-v2/main/pictures/color%20clock%20dimming.gif)
+![alt text](./pictures/1257.jpg)
 ## Introduction
 Clock using my own color-coding systems in place of numbers. Displays time in miltity format using the system below. It can connect to Wi-Fi and to gets time by NTP and updates a RTC chip to store locally for when it cannot update the time via NTP. There is a photocell at the top to adjust the LED brightness based on ambient brightness. 
 
